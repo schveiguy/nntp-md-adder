@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/nntp-md-adder
+nntp-md-adder.so
+nntp-md-adder.dylib
+nntp-md-adder.dll
+nntp-md-adder.a
+nntp-md-adder.lib
+nntp-md-adder-test-*
+*.exe
+*.o
+*.obj
+*.lst

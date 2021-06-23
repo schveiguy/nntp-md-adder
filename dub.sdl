@@ -1,0 +1,7 @@
+name "nntp-md-adder"
+description "Proxy server to add markdown header for stubborn newsreaders"
+authors "Steven Schveighoffer"
+copyright "Copyright © 2021, Steven Schveighoffer"
+license "Boost-1.0"
+dependency "iopipe" version="~>0.2.3"
+dependency "io" version="~>0.3.2"
